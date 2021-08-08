@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background: linear-gradient (#e35f75 0%, #cc5d0e 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 1px 1px #6f4ce0;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 80px;
+    margin: 8px auto;
+}
+
+p {
+    font-size: 25px;
+    color: purple;
+}
